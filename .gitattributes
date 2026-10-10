@@ -1,3 +1,5 @@
+* text=auto eol=lf
+
 # Unity YAML: keep as text so it diffs and merges
 *.unity    text eol=lf
 *.prefab   text eol=lf
